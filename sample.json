@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+"articles": [
+{
+"source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helena Horton",
+            "title": "Have you seen this bug? Scientists call on Britain’s gardeners to track elusive aphid",
+            "description": "The elusive giant willow aphid goes into hiding in spring. Now the Royal Horticultural Society wants volunteers to help find out whyGardeners have been urged by scientists to help find a mysterious bug which disappears in spring and reappears at the end of su…",
+            "url": "https://www.theguardian.com/environment/2023/feb/12/track-willow-aphid-gardeners-royal-horticultural-society-scientists",
+            "urlToImage": "https://i.guim.co.uk/img/media/5c8293df46b079f7058225c039e99d049e33b501/702_469_3906_2343/master/3906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=eda2df980767a3ab7a6cb0f5e3223bd1",
+            "publishedAt": "2023-02-12T09:00:18Z",
+            "content": "Gardeners have been urged by scientists to help find a mysterious bug which disappears in spring and reappears at the end of summer.\r\nThe Royal Horticultural Society (RHS) is asking people to send in… [+3022 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Genevieve Fox",
+            "title": "‘They save us’: Sally Muir on the art of drawing rescue dogs",
+            "description": "Scruffy or sleek, melancholic or mischievous… Sally Muir’s portraits of dogs capture the essence of unconditional love. And her latest collection on rescue dogs reveals much about cruelty – and kindnessWhen a toast is raised at a wedding, it is invariably to …",
+            "url": "https://www.theguardian.com/lifeandstyle/2023/feb/12/they-save-us-sally-muir-on-the-art-of-drawing-rescue-dogs",
+            "urlToImage": "https://i.guim.co.uk/img/media/a4a928c87a93dc93ac88d36c81a51a59f9845cee/0_0_6666_3998/master/6666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=037af5a031f7e38c722eb12fe5ebf47e",
+            "publishedAt": "2023-02-12T07:00:16Z",
+            "content": "When a toast is raised at a wedding, it is invariably to the bride. Not so when artist and author Sally Muir married the journalist Geoffrey Wheatcroft back in 1990. That honour went to Fanny, Sally … [+7994 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Edward Moyer",
+            "title": "Apple's Jony Ive Crowns King Charles III With Coronation Logo - CNET",
+            "description": "The famed former chief design officer at Apple, who worked on the iPod, iPhone and iPad, turns his attention to the official coronation emblem.",
+            "url": "https://www.cnet.com/culture/apples-jony-ive-crowns-king-charles-iii-with-coronation-logo/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/bd7b42e1e95effd12d7126a2edc584f2a62ed128/hub/2023/02/11/7abc7f9c-df43-449a-a63c-aa980bde5d22/screen-shot-2023-02-11-at-3-35-43-pm.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-12T03:19:00Z",
+            "content": "We'll call it the iCrown. Jony Ive, former Apple chief design officer and Steve Jobs compadre, is now the man behind the official emblem for the coronation of King Charles III.\r\nOn Friday, the royal … [+2076 chars]"
+        },
+{
+"source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Gael Fashingbauer Cooper",
+            "title": "Super Bowl 2023 Halftime Show: When and How to Watch Rihanna Today - CNET",
+            "description": "The nine-time Grammy Award winner will command the stage, and fans are ready.",
+            "url": "https://www.cnet.com/culture/entertainment/super-bowl-2023-halftime-show-when-and-how-to-watch-rihanna-today/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4184f1c5627e434d593e89eadf4bd66b8ce2f89e/hub/2023/01/17/577d2f24-ba2a-4eb1-a911-fc13d17c74e0/rihanna-super-bowl.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-12T19:39:00Z",
+            "content": "You don't need to know a touchdown from a tight end to tune in to Super Bowl LVII, which will pit the Kansas City Chiefs against the Philadelphia Eagles on Sunday. The mini-movie commercials, highly … [+3578 chars]"
+        }
+    ]
+}
